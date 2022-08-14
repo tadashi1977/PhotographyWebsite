@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Mingzat&display=swap');
+
+@font-face {
+    font-family: 'sinkin_sans700_bold';
+    src: url('sinkinsans-700bold-webfont.woff2') format('woff2'),
+         url('sinkinsans-700bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    background-color: lightcyan;
+}
+
+h1 {
+    font-family: 'Cinzel';
+}
+
+h2, p {
+    font-family: sans-serif
+}
+
+h3 {
+    font-family: sitka heading;
+}
+
+
+
